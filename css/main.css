@@ -1,0 +1,15 @@
+div#map {
+  height: 90vh;
+  width: 100%;
+  border: 2px solid #ddd;
+}
+
+.style {
+  background-color: #fa2;
+  padding: 20px;
+  color: white;
+  position: relative;
+  bottom: 85px;
+  font-size: 20px;
+  font-weight: bold;
+}
